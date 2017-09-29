@@ -12,3 +12,7 @@ to stage the changes use the commmand
 git add .
 
 used git pull
+
+to create a new branch 
+
+git checkout -b branchname
