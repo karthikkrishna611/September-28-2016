@@ -12,3 +12,6 @@ to stage the changes use the commmand
 git add .
 
 used git pull
+
+
+git fetch to fetch all the existing brnces with in the master
