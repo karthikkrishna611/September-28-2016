@@ -13,5 +13,8 @@ git add .
 
 used git pull
 
+to create a new branch 
+
+git checkout -b branchname
 
 git fetch to fetch all the existing brnces with in the master
